@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bot-verse/static/css/main.f040c9a7.css",
+    "main.js": "/bot-verse/static/js/main.287e39b8.js",
+    "static/media/logo.svg": "/bot-verse/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bot-verse/index.html",
+    "main.f040c9a7.css.map": "/bot-verse/static/css/main.f040c9a7.css.map",
+    "main.287e39b8.js.map": "/bot-verse/static/js/main.287e39b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f040c9a7.css",
+    "static/js/main.287e39b8.js"
+  ]
+}
