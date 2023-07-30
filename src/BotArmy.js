@@ -4,7 +4,7 @@ const BotArmy = ({ army, onRelease, onDischarge }) => {
   return (
     <div className="bot-army">
       <h2>Your Bot Army</h2>
-      <p>Click on the bot to view extensive details. You can release and discharge the bot from your army in this section.</p>
+      <p> You can release and discharge the bot from your army in this section.</p>
       <div className="bot-army-container">
         {army.map((bot) => (
             <div className="bot-army-card" key={bot.id}>
